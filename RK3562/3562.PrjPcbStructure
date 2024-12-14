@@ -1,0 +1,20 @@
+Record=TopLevelDocument|FileName=P01_COVER.SchDoc|SheetNumber= 
+Record=NoMainPathDocument|SourceDocument=P01_COVER.SchDoc|FileName=P02_BLOCK DIAGRAM_POWER TREE.SchDoc|SheetNumber= 
+Record=NoMainPathDocument|SourceDocument=P01_COVER.SchDoc|FileName=P03_SOM CONNECTOR.SchDoc|SheetNumber= 
+Record=NoMainPathDocument|SourceDocument=P01_COVER.SchDoc|FileName=P04_POWER.SchDoc|SheetNumber= 
+Record=NoMainPathDocument|SourceDocument=P01_COVER.SchDoc|FileName=P05_BOOT SET_KEY_LED_SPI_ADC.SchDoc|SheetNumber= 
+Record=NoMainPathDocument|SourceDocument=P01_COVER.SchDoc|FileName=P06_DEBUG UART_RTC_WD.SchDoc|SheetNumber= 
+Record=NoMainPathDocument|SourceDocument=P01_COVER.SchDoc|FileName=P07_MICRO SD_FAN_ARM JTAG.SchDoc|SheetNumber= 
+Record=NoMainPathDocument|SourceDocument=P01_COVER.SchDoc|FileName=P08_RS485_RS232_CAN.SchDoc|SheetNumber= 
+Record=NoMainPathDocument|SourceDocument=P01_COVER.SchDoc|FileName=P09_USB HOST_USB OTG.SchDoc|SheetNumber= 
+Record=NoMainPathDocument|SourceDocument=P01_COVER.SchDoc|FileName=P10_ETH0 RGMII.SchDoc|SheetNumber= 
+Record=NoMainPathDocument|SourceDocument=P01_COVER.SchDoc|FileName=P11_ETH1 RMII.SchDoc|SheetNumber= 
+Record=NoMainPathDocument|SourceDocument=P01_COVER.SchDoc|FileName=P12_ETH2 USB.SchDoc|SheetNumber= 
+Record=NoMainPathDocument|SourceDocument=P01_COVER.SchDoc|FileName=P13_ETH3_USB.SchDoc|SheetNumber= 
+Record=NoMainPathDocument|SourceDocument=P01_COVER.SchDoc|FileName=P14_WIFI_BLUETOOTH.SchDoc|SheetNumber= 
+Record=NoMainPathDocument|SourceDocument=P01_COVER.SchDoc|FileName=P15_4G_5G_NVME.SchDoc|SheetNumber= 
+Record=NoMainPathDocument|SourceDocument=P01_COVER.SchDoc|FileName=P16_AUDIO.SchDoc|SheetNumber= 
+Record=NoMainPathDocument|SourceDocument=P01_COVER.SchDoc|FileName=P17_LVDS LCD.SchDoc|SheetNumber= 
+Record=NoMainPathDocument|SourceDocument=P01_COVER.SchDoc|FileName=P18_CAMERA_MIPI LCD.SchDoc|SheetNumber= 
+Record=NoMainPathDocument|SourceDocument=P01_COVER.SchDoc|FileName=P19_HDMI OUT.SchDoc|SheetNumber= 
+Record=NoMainPathDocument|SourceDocument=P01_COVER.SchDoc|FileName=P20_WIFI&BT_SDIO_IO EXPANDERS.SchDoc|SheetNumber= 
